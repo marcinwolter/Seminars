@@ -1,0 +1,2 @@
+# Seminars
+My seminars

@@ -10,7 +10,7 @@ Seminar presents the contributions of John Hopfield and Geoffrey Hinton to machi
 
 It includes practical examples of various ML algorithms, which led to the Nobel Prize in 2024. Slides prepared in the form of executable iPython notebook will be available at https://github.com/marcinwolter/Seminars/blob/main/Seminarium_2024_11_05.ipynb .
 
-You are encouraged to bring your laptops!**
+You are encouraged to bring your laptops!
 
 
 
